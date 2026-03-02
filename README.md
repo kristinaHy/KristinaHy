@@ -112,5 +112,6 @@ Secure diary application
 </p>
 
 ---
-
-![Snake animation](https://raw.githubusercontent.com/kristinaHy/kristinaHy/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kristinaHy/KristinaHy/output/github-snake-dark.svg" />
+</p>
