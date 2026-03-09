@@ -107,7 +107,7 @@ Secure diary application
 
 ---
 <p align="center">
-    <img src="[https://raw.githubusercontent.com/kristinaHy/KristinaHy/output/github-snake-dark.svg)" />
+    <img src="https://github.com/kristinaHy/KristinaHy/blob/output/github-contribution-grid-snake-dark.svg" />
     
 </p>
 
