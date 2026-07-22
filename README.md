@@ -9,10 +9,11 @@
  alt="Kristina's GitHub Streak"
 />
 <!-- 🐼 Peekaboo Panda -->
-<p align="left">
+<p align="right">
   <img
     src="./assets/peekaboo-panda.gif"
     width="50"
+   height="30"
     alt="Peekaboo Panda"
   />
 </p>
