@@ -4,10 +4,35 @@
 
 <div align="center">
 
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=kristinaHy&theme=tokyonight&hide_border=true"
- alt="Kristina's GitHub Streak"
-/>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img
+        src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif"
+        width="140"
+        alt="Peekaboo Panda"
+      />
+    </td>
+
+```
+<td align="center" width="60%">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kristinaHy&theme=tokyonight&hide_border=true"
+    alt="Kristina's GitHub Streak"
+  />
+</td>
+
+<td align="center" width="20%">
+  <img
+    src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif"
+    width="140"
+    alt="Peekaboo Panda"
+  />
+</td>
+```
+
+  </tr>
+</table>
 
 </div>
 
@@ -123,8 +148,6 @@ Secure diary application.
     />
   </a>
 
-  
-
   <a href="mailto:hyaunmikhakristina@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -141,8 +164,8 @@ Secure diary application.
 <p align="center">
 
 <img
- src="https://raw.githubusercontent.com/kristinaHy/kristinaHy/output/github-contribution-grid-snake.svg"
- alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/kristinaHy/kristinaHy/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
 />
 
 </p>
