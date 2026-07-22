@@ -6,32 +6,32 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img
-        src="./assets/peekaboo-panda.gif"
-        width="140"
-        alt="Peekaboo Panda"
-      />
-    </td>
+    <td width="75%" align="center">
 
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=kristinaHy&theme=tokyonight&hide_border=true"
-        alt="Kristina's GitHub Streak"
-      />
-    </td>
+```
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kristinaHy&theme=tokyonight&hide_border=true"
+    alt="Kristina's GitHub Streak"
+  />
 
-    <td align="center" width="25%">
-      <img
-        src="./assets/peekaboo-panda.gif"
-        width="140"
-        alt="Peekaboo Panda"
-      />
-    </td>
+</td>
+
+<td width="25%" align="center">
+
+  <img
+    src="./assets/peekaboo-panda.gif"
+    width="130"
+    alt="Peekaboo Panda"
+  />
+
+</td>
+```
+
   </tr>
 </table>
 
 </div>
+
 ---
 
 ## 🌸 About Me
