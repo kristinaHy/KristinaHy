@@ -12,16 +12,12 @@
 <p align="left">
   <img
     src="./assets/peekaboo-panda.gif"
-    width="180"
+    width="50"
     alt="Peekaboo Panda"
   />
 </p>
 
 </div>
-
----
----
-
 
 ---
 
