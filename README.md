@@ -6,25 +6,25 @@
 
 <table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/kristinaHy/kristinaHy/main/assets/peekaboo-panda.gif"
-        width="150"
+        src="./assets/peekaboo-panda.gif"
+        width="140"
         alt="Peekaboo Panda"
       />
     </td>
 
-    <td align="center" width="60%">
+    <td align="center" width="50%">
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=kristinaHy&theme=tokyonight&hide_border=true"
         alt="Kristina's GitHub Streak"
       />
     </td>
 
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/kristinaHy/kristinaHy/main/assets/peekaboo-panda.gif"
-        width="150"
+        src="./assets/peekaboo-panda.gif"
+        width="140"
         alt="Peekaboo Panda"
       />
     </td>
