@@ -8,20 +8,20 @@
  src="https://github-readme-streak-stats.herokuapp.com/?user=kristinaHy&theme=tokyonight&hide_border=true"
  alt="Kristina's GitHub Streak"
 />
-
-</div>
-
----
----
-
 <!-- 🐼 Peekaboo Panda -->
-<p align="center">
+<p align="left">
   <img
     src="./assets/peekaboo-panda.gif"
     width="180"
     alt="Peekaboo Panda"
   />
 </p>
+
+</div>
+
+---
+---
+
 
 ---
 
