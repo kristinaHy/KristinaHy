@@ -12,6 +12,18 @@
 </div>
 
 ---
+---
+
+<!-- 🐼 Peekaboo Panda -->
+<p align="center">
+  <img
+    src="./assets/peekaboo-panda.gif"
+    width="180"
+    alt="Peekaboo Panda"
+  />
+</p>
+
+---
 
 ## 🌸 About Me
 
